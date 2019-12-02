@@ -13,6 +13,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Lab3 Item Controls", "W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Lab4 Layout Controls", "WPF Lab4 Layout Controls\WPF Lab4 Layout Controls.csproj", "{3AA6658B-6951-4261-A1DD-61DABBFC5B73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Lab7 chnage norification and data validation", "WPF Lab7 chnage norification and data validation\WPF Lab7 chnage norification and data validation.csproj", "{AC054CA4-D11D-4AB0-930F-3B0A65A51F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Lab8n9 high contrast styles and animations", "WPF Lab8 high contrast styles\WPF Lab8n9 high contrast styles and animations.csproj", "{4912C4DD-AD1E-40A8-8815-185BC5CC177A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Lab10 Control Template", "WPF Lab10 Control Template\WPF Lab10 Control Template.csproj", "{459CE69D-7C97-4784-BB97-B123DE062A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Lab11 custom control library", "WPF Lab11 custom control library\WPF Lab11 custom control library.csproj", "{9A91A5DE-AAE8-4A8F-A5BD-3686BBD734EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Lab11 custom control", "WPF Lab11 custom control\WPF Lab11 custom control.csproj", "{4CDB21C4-A743-44EE-9B33-AC9C0408C2CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +49,26 @@ Global
 		{3AA6658B-6951-4261-A1DD-61DABBFC5B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AA6658B-6951-4261-A1DD-61DABBFC5B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AA6658B-6951-4261-A1DD-61DABBFC5B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC054CA4-D11D-4AB0-930F-3B0A65A51F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC054CA4-D11D-4AB0-930F-3B0A65A51F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC054CA4-D11D-4AB0-930F-3B0A65A51F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC054CA4-D11D-4AB0-930F-3B0A65A51F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4912C4DD-AD1E-40A8-8815-185BC5CC177A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4912C4DD-AD1E-40A8-8815-185BC5CC177A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4912C4DD-AD1E-40A8-8815-185BC5CC177A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4912C4DD-AD1E-40A8-8815-185BC5CC177A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{459CE69D-7C97-4784-BB97-B123DE062A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459CE69D-7C97-4784-BB97-B123DE062A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459CE69D-7C97-4784-BB97-B123DE062A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459CE69D-7C97-4784-BB97-B123DE062A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A91A5DE-AAE8-4A8F-A5BD-3686BBD734EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A91A5DE-AAE8-4A8F-A5BD-3686BBD734EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A91A5DE-AAE8-4A8F-A5BD-3686BBD734EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A91A5DE-AAE8-4A8F-A5BD-3686BBD734EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDB21C4-A743-44EE-9B33-AC9C0408C2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDB21C4-A743-44EE-9B33-AC9C0408C2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDB21C4-A743-44EE-9B33-AC9C0408C2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDB21C4-A743-44EE-9B33-AC9C0408C2CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
